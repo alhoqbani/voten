@@ -28,12 +28,14 @@
         "zachleigh/laravel-vue-generators": "^0.1.1"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.2",
         "codedungeon/phpunit-result-printer": "^0.14.0",
         "filp/whoops": "~2.0",
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "nunomaduro/collision": "^2.0",
         "phpunit/phpunit": "~7.0",
+        "shipping-docker/vessel": "^3.1",
         "symfony/css-selector": "3.1.*",
         "symfony/dom-crawler": "3.1.*"
     },
